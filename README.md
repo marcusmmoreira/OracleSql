@@ -1,0 +1,2 @@
+# OracleSql
+Treinamento e Scripts
